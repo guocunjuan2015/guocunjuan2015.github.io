@@ -5,8 +5,8 @@
     <description>Actually, less is more!</description>
     <link>http://localhost:4000/LessOrMore/</link>
     <atom:link href="http://localhost:4000/LessOrMore/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Dec 2018 16:49:55 +0800</pubDate>
-    <lastBuildDate>Thu, 06 Dec 2018 16:49:55 +0800</lastBuildDate>
+    <pubDate>Thu, 06 Dec 2018 16:58:15 +0800</pubDate>
+    <lastBuildDate>Thu, 06 Dec 2018 16:58:15 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
